@@ -6,4 +6,4 @@ http://www.fondationlecorbusier.fr/corbuweb/morpheus.aspx?sysId=13&IrisObjectId=
 
 This Model was created using the free and open source software FreeCAD. You can download it from https://www.freecadweb.org/
 
-![Maison Dom-Ino FreeCAD Model](https://github.com/bitacovir/Maison_Dom-Ino_3D/blob/master/Images/dom-ino02.jpeg)
+![Maison Dom-Ino FreeCAD Model](https://github.com/bitacovir/Maison_Dom-Ino_3D/blob/master/Images/freecad_xI9PJXGeuk.png)
